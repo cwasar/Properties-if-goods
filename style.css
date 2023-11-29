@@ -1,0 +1,14 @@
+.my-list-header{
+    list-style: none;
+    font-weight: 400;
+    border: 1px solid grey;
+    padding-left: 5px;
+    background-color: #c1ccfa;
+}
+
+.my-list{
+    list-style: none;
+    border: 1px solid grey;
+    border-top: none;
+    padding-left: 5px;
+}
